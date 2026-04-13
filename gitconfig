@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = zanelliesteban@gmail.com
+	name = Esteban Zanelli
